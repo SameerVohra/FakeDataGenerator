@@ -1,0 +1,41 @@
+{
+  "name": "faking-details",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fake data generator",
+    "random data generator",
+    "npm package",
+    "fake email generator",
+    "fake name generator",
+    "fake card details generator",
+    "mock data",
+    "test data generator",
+    "JavaScript library",
+    "randomized data",
+    "faker.js alternative",
+    "data generation",
+    "dummy data generator",
+    "fake credit card generator",
+    "random email",
+    "random name",
+    "test automation tools",
+    "fake data npm",
+    "random generator package",
+    "mock data npm"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SameerVohra/FakeDataGenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SameerVohra/FakeDataGenerator/issues"
+  },
+  "homepage": "https://github.com/SameerVohra/FakeDataGenerator#readme"
+}
